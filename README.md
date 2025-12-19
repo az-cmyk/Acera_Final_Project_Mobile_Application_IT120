@@ -64,7 +64,7 @@ Roostify currently supports ultra-accurate detection for the following breeds:
 ### Installation
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/roostify.git
+    git clone https://github.com/az-cmyk/Acera_Final_Project_Mobile_Application_IT120.git
     ```
 2.  **Install Dependencies**
     ```bash
